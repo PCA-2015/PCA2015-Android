@@ -106,6 +106,9 @@ public class SelfieActivity extends Activity implements SurfaceHolder.Callback {
     @Override
     public void surfaceDestroyed(SurfaceHolder holder) {
 
+
+
+        
     }
 
     @Override
