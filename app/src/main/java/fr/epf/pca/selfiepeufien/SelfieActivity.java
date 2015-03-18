@@ -73,7 +73,7 @@ public class SelfieActivity extends Activity implements SurfaceHolder.Callback {
             handler.postDelayed(new Runnable() {
                 @Override
                 public void run() {
-                    texte.setText("Vous êtes Lancelot !");
+                    texte.setText("Vous êtes grosse !");
                 }
             }, 2000);
         }
